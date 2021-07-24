@@ -47,3 +47,12 @@
     background-color: white;
     border-top: none;
 }
+#Contact{
+    height: 300px;
+}
+#Contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
