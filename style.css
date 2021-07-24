@@ -53,6 +53,9 @@
 #Contact h6{
     color: gray;
 }
+#submit{
+    margin-top: 5px;
+}
 footer{
     text-align: center;
 }
